@@ -1,3 +1,0 @@
-# Metroidvania_Project
-My metroidvania project with chatgpt...
-Jacob should ask out the girl
