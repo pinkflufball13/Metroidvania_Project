@@ -63,3 +63,5 @@ while running:
     clock.tick(60)
 
 pygame.quit()
+
+# jacob should ask out the girl from the coffee shop cuz he is cute
