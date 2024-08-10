@@ -1,3 +1,3 @@
 # Metroidvania_Project
 My metroidvania project with chatgpt...
-Andrew is dumb
+Jacob should ask out the girl
