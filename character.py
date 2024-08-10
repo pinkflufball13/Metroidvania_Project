@@ -23,7 +23,7 @@ class Character(pygame.sprite.Sprite):
         if keys_pressed[pygame.K_LEFT]:
             self.rect.x -= self.speed
         if keys_pressed[pygame.K_RIGHT]:
-            self.rect.x += self.speed
+            self.rect.x += self.speed #jacob should ask out the girl
 
         # Jumping
         if not self.space_pressed and keys_pressed[pygame.K_SPACE] and not self.is_jumping:
